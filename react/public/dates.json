@@ -1,0 +1,65 @@
+{
+    "dates": [
+        {
+            "month": "January",
+            "code": 1,
+            "year": 2024
+        },
+        {
+            "month": "February",
+            "code": 2,
+            "year": 2024
+        },
+        {
+            "month": "March",
+            "code": 3,
+            "year": 2024
+            
+        },
+        {
+            "month": "April",
+            "code": 4,
+            "year": 2024
+        },
+        {
+            "month": "May",
+            "code": 5,
+            "year": 2024
+        },
+        {
+            "month": "June",
+            "code": 6,
+            "year": 2024
+        },
+        {
+            "month": "July",
+            "code": 7,
+            "year": 2023
+        },
+        {
+            "month": "August",
+            "code": 8,
+            "year": 2023
+        },
+        {
+            "month": "September",
+            "code": 9,
+            "year": 2023
+        },
+        {
+            "month": "October",
+            "code": 10,
+            "year": 2023
+        },
+        {
+            "month": "November",
+            "code": 11,
+            "year": 2023
+        },
+        {
+            "month": "December",
+            "code": 12,
+            "year": 2023
+        }
+    ]
+}
